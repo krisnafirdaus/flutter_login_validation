@@ -1,6 +1,7 @@
 # login_validation
 
-A new Flutter application.
+Login Validation with Flutter
+
 
 ## Getting Started
 
